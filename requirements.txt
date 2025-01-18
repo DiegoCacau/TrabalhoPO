@@ -1,0 +1,4 @@
+colorful==0.5.6
+numpy==1.19.5
+prettyprinter==0.18.0
+Pygments==2.14.0

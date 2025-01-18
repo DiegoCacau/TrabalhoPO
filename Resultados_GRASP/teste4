@@ -1,0 +1,51 @@
+(1438.921373623875, 22088.41313787055, 1227, 32)
+[Route: cost: 938.2095021360087 
+depot index: 4 
+delivered: 92 
+route: [7, 38, 27] , Route: cost: 708.4462392644366 
+depot index: 5 
+delivered: 133 
+route: [18, 21, 15, 8] , Route: cost: 1021.8328044507915 
+depot index: 1 
+delivered: 104 
+route: [41, 6] , Route: cost: 409 
+depot index: 4 
+delivered: 0 
+route: [] , Route: cost: 302.3035154086991 
+depot index: 7 
+delivered: 35 
+route: [14, 49, 16, 1] , Route: cost: 1643.3499918910152 
+depot index: 3 
+delivered: 49 
+route: [25] , Route: cost: 1229.4211710171935 
+depot index: 2 
+delivered: 107 
+route: [13, 5, 17] , Route: cost: 2315.7301854221537 
+depot index: 3 
+delivered: 69 
+route: [23] , Route: cost: 924.8554350549631 
+depot index: 3 
+delivered: 132 
+route: [48, 26, 2] , Route: cost: 2107.658497119244 
+depot index: 0 
+delivered: 90 
+route: [9, 0, 37] , Route: cost: 3575.0 
+depot index: 8 
+delivered: 60 
+route: [40] , Route: cost: 2273.8378631701826 
+depot index: 9 
+delivered: 90 
+route: [31, 45] , Route: cost: 1863.8958950137503 
+depot index: 0 
+delivered: 89 
+route: [20, 12, 30] , Route: cost: 2174.222208226617 
+depot index: 9 
+delivered: 82 
+route: [34] , Route: cost: 600.649829695497 
+depot index: 2 
+delivered: 95 
+route: [43] ]
+
+real	0m38,063s
+user	0m38,062s
+sys	0m0,004s
